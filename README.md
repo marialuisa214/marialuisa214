@@ -13,13 +13,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
-
-
-
-<br>
-      
-      
+ 
+![Snake animation](https://github.com/marialuisa214/marialuisa214/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **marialuisa214/marialuisa214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
