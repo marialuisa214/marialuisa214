@@ -3,6 +3,7 @@
 - 📚 Estudante de Engenharia de Software
 - 👩‍💻 Pesquisadora do AiLab 
 
+#### Alguns dados sobre mim:
 <div align="center">
   <a href="https://github.com/duribeiro">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marialuisa214&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
