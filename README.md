@@ -3,21 +3,19 @@
 - 📚 Estudante de Engenharia de Software
 - 👩‍💻 Pesquisadora do AiLab 
 
- <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuisa214&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marialuisa214&count_private=true&include_all_commits=true&show_icons=true&theme=transparent)
 
- 
- 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.tutorialspoint.com/c_standard_library/index.htm" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="C" height='32px'/> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='32px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='32px'/> </a>
-<img align="center" alt="git" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="github" height="35" width="32" src="/assets/GitHub.png">
-<img align="center" alt="linux" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+#### Linguagens e Tecnologias:
+    <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+    <a href="https://www.tutorialspoint.com/c_standard_library/index.htm" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="C" height='32px'/> </a>
+    <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS" height ="32px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='32px'/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='32px'/> </a>
 
 <br>
 
