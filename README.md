@@ -11,6 +11,7 @@
   </a>
 </div>
 
+<!--
 #### Linguagens e Tecnologias:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.tutorialspoint.com/c_standard_library/index.htm" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg" alt="C" height='32px'/> </a>
@@ -23,7 +24,6 @@
 
 <br>
 
-<!--
 **marialuisa214/marialuisa214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
