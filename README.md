@@ -1,7 +1,7 @@
 ### Oiie, aqui é a Malu ✨
 
 - 📚 Estudante de Engenharia de Software
-- 👩‍💻 Pesquisadora do AiLab 
+- 👩‍💻 Estagiaria em Cloud service na Wiz.co
 
 #### Alguns dados sobre mim:
 <div align="center">
